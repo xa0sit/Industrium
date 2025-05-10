@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "industrium.industriumid.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
